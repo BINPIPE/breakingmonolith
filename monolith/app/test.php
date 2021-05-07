@@ -35,7 +35,7 @@
 		Print_r($sel_items);
 		$total=calc_total($sel_items);
 		echo $total;
-		$url = "http://192.168.10.108:8081/payment/".$total;
+		$url = "http://127.0.0.1:8081/payment/".$total;
 		
 		$client = curl_init($url);
 		curl_setopt($client,CURLOPT_RETURNTRANSFER,true);
