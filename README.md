@@ -4,11 +4,18 @@
 
 [![BINPIPE](https://img.shields.io/badge/BINPIPE-YouTube-red)](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A?sub_confirmation=1)
 [![Learn DevOps!](https://img.shields.io/badge/BINPIPE-Learn--DevOps-orange)](https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md)
-[![BINPIPE](https://img.shields.io/badge/Live--Classroom-blue)](https://forms.gle/tDJxDyj2nJyfsgsk7)
 
-Curated List of Learning Resources
---- |
-<mark>:ledger:[Lesson Plans & Videos](https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md)</mark>
+<mark>:ledger:[Demo Video on Youtube](https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md)</mark>
+
+
+
+Coming Up!
+
+
+
+
+
+
 
 <pre>
 <a href="https://www.binpipe.org">BINPIPE</a> aims to simplify learning for those who are looking to make a foothold in the industry. 
@@ -22,7 +29,4 @@ ___
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 <br><sub><sup>
-[Digital Millennium Copyright Act (DMCA) Notice](https://github.com/BINPIPE/resources/blob/master/dmca.md) <br>
-If you benefited from the content here consider supporting the initiative! <br>
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/Prasanjit?locale.x=en_GB)
-</sup></sub>
+[Digital Millennium Copyright Act (DMCA) Notice](https://github.com/BINPIPE/resources/blob/master/dmca.md) <
