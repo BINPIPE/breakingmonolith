@@ -1,4 +1,4 @@
-# Learning Resources
+# Splitting a Monolith to Microservices
 
 `Learning Resources for DevOps, SRE, Cloud & Engineering Management`
 
