@@ -1,6 +1,6 @@
 # Splitting a Monolith to Microservices
 
-<mark>:ledger:[Demo Video on Youtube](https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md)</mark>
+<mark>:ledger:[Demo Video on Youtube](https://youtu.be/4wFf15BbiHc)</mark>
 
 
 
